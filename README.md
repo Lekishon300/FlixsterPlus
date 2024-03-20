@@ -1,10 +1,7 @@
 # Android Project 3 - *Flixster+*
 
-Submitted by: **Christine Lekishon**
-
 **Flixster+** is a movie browsing app that allows users to browse movies currently playing in theaters.
 
-Time spent: **6** hours spent in total
 
 ## Required Features
 
